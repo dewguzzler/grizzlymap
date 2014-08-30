@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Grizzly Map</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_area_map">Area Map</string>
+    <string name="title_activity_cmap">Campus Map</string>
+    <string name="title_activity_me_map">My Bio</string>
+
+</resources>
